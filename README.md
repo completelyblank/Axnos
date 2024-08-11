@@ -1,4 +1,4 @@
-![Apocalypse_1](https://github.com/completelyblank/Axnos/assets/105001837/a3747266-8e47-4376-8901-1c8149808b66)
+![image](https://github.com/user-attachments/assets/be3961ec-b6df-414c-8ee9-863ca3fb0405)
 
 # Axnos (Shelved - Flutter Game Project)
 
